@@ -36,7 +36,7 @@ This project aims to set up a personal cloud storage system using a Windows lapt
 4. Select the user accounts you want to share with and set permissions (Read/Write).
 5. Click **Share** and then **Done**.
 
-![Screenshot](https://github.com/Images-Videos/Test-Folder.png)
+![Screenshot](https://github.com/Riyanshj/Personal-Cloud-Storage-on-Windows-SSD/blob/main/Images-Videos/Test-Folder.png)
 
 
 
