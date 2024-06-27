@@ -75,6 +75,9 @@ This project aims to set up a personal cloud storage system using a Windows lapt
 5. Enter your Windows username and password.
 6. Tap **Connect** to access your shared folders.
 
+![Screenshot](https://github.com/Riyanshj/Personal-Cloud-Storage-on-Windows-SSD/blob/main/Images-Videos/mobile-file-manager.mp4)
+
+
 ## Troubleshooting
 
 - Ensure that network discovery and file sharing are enabled on all devices.
