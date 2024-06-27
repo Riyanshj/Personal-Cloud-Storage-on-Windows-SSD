@@ -36,6 +36,11 @@ This project aims to set up a personal cloud storage system using a Windows lapt
 4. Select the user accounts you want to share with and set permissions (Read/Write).
 5. Click **Share** and then **Done**.
 
+![Screenshot](https://github.com/Images-Videos)
+
+
+
+
 ### Set Up Remote Access (Optional)
 
 #### Port Forwarding
